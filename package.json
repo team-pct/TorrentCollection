@@ -1,33 +1,16 @@
 {
-  "_args": [
-    [
-      "TorrentCollection@0.0.2",
-      "/var/lib/jenkins/workspace/Popcorn-Time-Desktop"
-    ]
-  ],
-  "_from": "TorrentCollection@0.0.2",
-  "_id": "TorrentCollection@0.0.2",
-  "_inBundle": false,
-  "_integrity": "sha1-DItQB0aper8pKGnkpe113Y3Lze4=",
-  "_location": "/TorrentCollection",
-  "_phantomChildren": {},
-  "_requested": {
-    "type": "version",
-    "registry": true,
-    "raw": "TorrentCollection@0.0.2",
-    "name": "TorrentCollection",
-    "escapedName": "TorrentCollection",
-    "rawSpec": "0.0.2",
-    "saveSpec": null,
-    "fetchSpec": "0.0.2"
+  "name": "TorrentCollection2",
+  "version": "0.0.1",
+  "description": "TorrentCollection for Popcorn Time",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/team-pct/TorrentCollection"
   },
-  "_requiredBy": [
-    "/"
-  ],
-  "_resolved": "https://registry.npmjs.org/TorrentCollection/-/TorrentCollection-0.0.2.tgz",
-  "_spec": "0.0.2",
-  "_where": "/var/lib/jenkins/workspace/Popcorn-Time-Desktop",
-  "contributors": {
+  "bugs": {
+    "url": "https://github.com/team-pct/TorrentCollection/issues"
+  },
+ 
+"contributors": {
     "name": "Popcorn Time"
   },
   "dependencies": {
@@ -36,10 +19,4 @@
     "thepiratebay": "*",
     "torrentapi-wrapper": "*",
     "xtorrent": "*"
-  },
-  "description": "Popcorn Time TorrentCollection",
-  "license": "MIT",
-  "main": "index.js",
-  "name": "TorrentCollection",
-  "version": "0.0.2"
-}
+  }
