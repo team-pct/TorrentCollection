@@ -1,4 +1,5 @@
-{
+
+{  
   "name": "TorrentCollection2",
   "version": "0.0.1",
   "description": "TorrentCollection for Popcorn Time",
@@ -7,12 +8,11 @@
     "url": "https://github.com/team-pct/TorrentCollection"
   },
   "bugs": {
-    "url": "https://github.com/team-pct/TorrentCollection/issues"
-  },
- 
-"contributors": {
+   "url": "https://github.com/team-pct/TorrentCollection/issues"
+ },
+  "contributors": {
     "name": "Popcorn Time"
-  },
+},
   "dependencies": {
     "cpasbien-api": "1.1.2",
     "extratorrent-api": "1.1.4",
@@ -20,3 +20,4 @@
     "torrentapi": "2.0.1",
     "xtorrent": "*"
   }
+}
