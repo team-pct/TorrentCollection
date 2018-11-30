@@ -1,7 +1,7 @@
 
 {  
-  "name": "TorrentCollection2",
-  "version": "0.0.2",
+  "name": "torrentcollection2",
+  "version": "0.0.3",
   "description": "TorrentCollection for Popcorn Time",
   "repository": {
     "type": "git",
