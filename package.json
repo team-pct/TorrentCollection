@@ -14,9 +14,9 @@
     "name": "Popcorn Time"
   },
   "dependencies": {
-    "cpasbien-api": "*",
-    "extratorrent-api": "*",
-    "thepiratebay": "*",
-    "torrentapi-wrapper": "*",
+    "cpasbien-api": "1.1.2",
+    "extratorrent-api": "1.1.4",
+    "thepiratebay": "1.4.7",
+    "torrentapi": "2.0.1",
     "xtorrent": "*"
   }
